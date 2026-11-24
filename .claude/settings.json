@@ -1,8 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch",
-      "Edit(./workspace/**)"
+      "Edit(./workspace/**)",
+      "Write(./workspace/**)"
     ]
   }
 }

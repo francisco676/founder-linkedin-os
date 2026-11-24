@@ -12,7 +12,7 @@ Founders and B2B execs who want customers from LinkedIn, not just likes.
 2. Clone this repo and open it:
 
 ```
-git clone <this repo's URL>
+git clone https://github.com/francisco676/founder-linkedin-os.git
 cd founder-linkedin-os
 claude
 ```
